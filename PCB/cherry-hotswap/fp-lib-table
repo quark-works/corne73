@@ -4,4 +4,5 @@
   (lib (name "qw-footprints")(type "KiCad")(uri "/Users/quark/Documents/GitHub/corne73/PCB/qw-footprints/qw-footprints")(options "")(descr ""))
   (lib (name "1999")(type "KiCad")(uri "/Users/quark/Documents/GitHub/corne73/PCB/qw-footprints/1999")(options "")(descr ""))
   (lib (name "qw-logo")(type "KiCad")(uri "/Users/quark/Documents/GitHub/corne73/PCB/qw-footprints/qw-logo")(options "")(descr ""))
+  (lib (name "Corne73")(type "KiCad")(uri "/Users/quark/Documents/GitHub/corne73/PCB/footprints/Corne73.pretty")(options "")(descr ""))
 )

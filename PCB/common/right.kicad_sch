@@ -4239,7 +4239,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "Corne73:SwitchCombo"
 			(at 236.22 118.11 0)
 			(effects
 				(font
@@ -4312,7 +4312,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "Corne73:SwitchCombo"
 			(at 248.92 102.87 0)
 			(effects
 				(font
@@ -5088,7 +5088,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "Corne73:SwitchCombo"
 			(at 236.22 102.87 0)
 			(effects
 				(font
@@ -5231,7 +5231,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "Corne73:SwitchCombo"
 			(at 198.12 133.35 0)
 			(effects
 				(font
@@ -5516,7 +5516,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "Corne73:SwitchCombo"
 			(at 210.82 133.35 0)
 			(effects
 				(font
@@ -5660,7 +5660,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1.5u"
+		(property "Footprint" "Corne73:SwitchCombo"
 			(at 248.92 148.59 0)
 			(effects
 				(font
@@ -6085,7 +6085,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "Corne73:SwitchCombo"
 			(at 198.12 118.11 0)
 			(effects
 				(font
@@ -6157,7 +6157,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "Corne73:SwitchCombo"
 			(at 185.42 133.35 0)
 			(effects
 				(font
@@ -6371,7 +6371,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "Corne73:SwitchCombo"
 			(at 223.52 148.59 0)
 			(effects
 				(font
@@ -6594,7 +6594,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "Corne73:SwitchCombo"
 			(at 185.42 102.87 0)
 			(effects
 				(font
@@ -6924,7 +6924,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "Corne73:SwitchCombo"
 			(at 248.92 133.35 0)
 			(effects
 				(font
@@ -7138,7 +7138,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "Corne73:SwitchCombo"
 			(at 210.82 102.87 0)
 			(effects
 				(font
@@ -7210,7 +7210,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "Corne73:SwitchCombo"
 			(at 236.22 133.35 0)
 			(effects
 				(font
@@ -7353,7 +7353,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "Corne73:SwitchCombo"
 			(at 210.82 118.11 0)
 			(effects
 				(font
@@ -7708,7 +7708,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "Corne73:SwitchCombo"
 			(at 248.92 118.11 0)
 			(effects
 				(font
@@ -7922,7 +7922,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "Corne73:SwitchCombo"
 			(at 185.42 118.11 0)
 			(effects
 				(font
@@ -8214,7 +8214,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "Corne73:SwitchCombo"
 			(at 223.52 118.11 0)
 			(effects
 				(font
@@ -8426,7 +8426,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "Corne73:SwitchCombo"
 			(at 198.12 102.87 0)
 			(effects
 				(font
@@ -8498,7 +8498,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "Corne73:SwitchCombo"
 			(at 236.22 148.59 0)
 			(effects
 				(font
@@ -8787,7 +8787,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "Corne73:SwitchCombo"
 			(at 223.52 133.35 0)
 			(effects
 				(font
@@ -8859,7 +8859,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_marbastlib-mx:SW_MX_HS_CPG151101S11_1u"
+		(property "Footprint" "Corne73:SwitchCombo"
 			(at 223.52 102.87 0)
 			(effects
 				(font
